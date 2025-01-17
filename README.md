@@ -8,11 +8,12 @@
 
 - <b>PowerShell</b>
 
-<b>Python</b>
 
-<b>c lang</b>
+   <b>Python</b>
 
-<b>assembly</b>
+   <b>c lang</b>
+
+    <b>assembly</b>
 
 
 
