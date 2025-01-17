@@ -6,5 +6,22 @@
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
+- <b>PowerShell</b>
+
+<b>Python</b>
+
+<b>c lang</b>
+
+<b>assembly</b>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="KENBIORERI | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KENBIORERI | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/Bioreri_
+[linkedin]: https://linkedin.com/in/ken-bioreri-onesixtyone/
 
 
